@@ -19,4 +19,4 @@ I don't just like theory,.I like shipping things. Whether it's running hardware-
 
 
 ### 📫 Let's talk systems:
-[LinkedIn](https://www.linkedin.com/in/eduardo-barata/) | [Email](mailto:eduardo02barata@gmail.com) | Or just drop an issue in one of my repos!
+[LinkedIn](https://www.linkedin.com/in/eduardo-barata/) | eduardo02barata [at] gmail [.] com | Or just drop an issue in one of my repos!
