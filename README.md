@@ -1,22 +1,32 @@
-# 👋 Hey, I'm Eduardo
+# Hi there, I'm Eduardo Barata 👋
 
-**Systems Engineer | Security Researcher | Rustacean**
+### Distributed Systems Engineer | MSc Computer Engineering @ Técnico Lisboa
 
-I'm a Computer Science Master's student at IST and a Research Assistant at INESC-ID. I spend most of my time breaking network protocols, analyzing traffic, and rebuilding systems in Rust to make them ridiculously fast and secure. 
+I'm a software engineer passionate about building highly resilient, event-driven architectures and high-performance infrastructure. I enjoy tackling complex problems related to concurrency, scalability, and system design.
 
-I don't just like theory,.I like shipping things. Whether it's running hardware-isolated VMs or building serverless edge applications, I love working at the intersection of high-performance infrastructure and cybersecurity.
+## 🚀 About Me
 
-### 🛠️ What I'm working with right now:
-- **Languages:** `Rust` (my go-to), `C`, `Python`, `Java`
-- **Infrastructure:** `Cloudflare Workers & D1`, `WebAssembly`, `Linux`
-- **Security:** `Network Traffic Analysis`, `Confidential Computing (AMD SEV-SNP)`, `Cryptography`
+* 💻 Currently working as a **Distributed Systems Engineer** at **Carrot Incentives**, building fault-tolerant telecom systems using Kafka, microservices, and event-driven patterns.
+* 🎓 Finishing my **Master's in Computer Engineering** at **Instituto Superior Técnico (IST)**, where I also serve as a Teaching Assistant (Monitor).
+* ⚡ Long-term focus: Edge computing and large-scale, high-throughput distributed infrastructure.
 
-### 🚀 Stuff I've Built (and Re-built):
-- 🛡️ POLARIS (MSc Thesis): Architecting a policy-enforced traffic analysis engine that leverages AMD SEV-SNP for hardware-level execution isolation.
-- 🕵️‍♂️ **NetCLR & De-Anonymization Pipelines:** Ported Python/Java network-wide DDoS and tracking tools into highly concurrent Rust at INESC-ID, dropping execution times from minutes to milliseconds. 
-- 💸 **HeyBilly:** A privacy-first, edge-native personal finance tracker running entirely on Cloudflare Pages and D1. 
-- 🏎️ **Técnico Fuel Cell Telemetry:** Architected the live telemetry and sensor ingestion system for a competitive hydrogen-powered vehicle.
+## 🛠️ Tech Stack & Tools
 
+* **Languages:** Java/Javascript/Kotlin, Python, C, TypeScript
+* **Architecture:** Event-Driven, Microservices, Distributed Systems
+* **Infrastructure & Messaging:** Apache Kafka, Kubernetes, Docker
+* **Concepts:** High-Availability, Fault Tolerance, Concurrency
 
-### 📫 Let's talk systems:
+## 🚀 Stuff I've Built (and Re-built)
+
+* 🛡️ **POLARIS (MSc Thesis):** Architecting a policy-enforced traffic analysis engine that leverages AMD SEV-SNP for hardware-level execution isolation.
+* 🕵️‍♂️ **NetCLR & De-Anonymization Pipelines:** Ported Python/Java network-wide DDoS and tracking tools into a highly concurrent implementation at INESC-ID, dropping execution times from minutes to milliseconds. 
+* 💸 **HeyBilly:** A privacy-first, edge-native personal finance tracker running entirely on Cloudflare Pages and D1. 
+* 🏎️ **Técnico Fuel Cell Telemetry:** Architected the live telemetry and sensor ingestion system for a competitive hydrogen-powered vehicle.
+
+## 📫 Let's Connect
+
 [LinkedIn](https://www.linkedin.com/in/eduardo-barata/) | eduardo02barata [at] gmail [.] com | Or just drop an issue in one of my repos!
+
+---
+*"Complexity is the enemy of reliability."*
